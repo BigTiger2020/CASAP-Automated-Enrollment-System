@@ -8,5 +8,6 @@ edit_stud.php
 ![image](https://github.com/BigTiger2020/CASAP-Automated-Enrollment-System/blob/main/edit_stud-xss-2.png)  
 update_student.php  
 ![image](https://github.com/BigTiger2020/CASAP-Automated-Enrollment-System/blob/main/update_student.png)  
-* Vulnerability proof :  
+* Vulnerability proof :    
+Script statement：<image src=1 onerror=alert(1)>
 ![image](https://github.com/BigTiger2020/CASAP-Automated-Enrollment-System/blob/main/xss.png)
