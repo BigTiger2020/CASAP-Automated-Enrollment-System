@@ -5,4 +5,4 @@
 * Vulnerable file: edit_stud.php  
 ![image](https://github.com/BigTiger2020/CASAP-Automated-Enrollment-System/blob/main/edit_stud.png)  
 * Vulnerability proof :  
-![image](https://github.com/BigTiger2020/CASAP-Automated-Enrollment-System/blob/main/sql-2.png)  
+![image](https://github.com/BigTiger2020/CASAP-Automated-Enrollment-System/blob/main/sql2.png)  
